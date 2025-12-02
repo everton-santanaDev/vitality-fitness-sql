@@ -16,7 +16,7 @@ Este banco de dados modela o funcionamento da Academia Vitality Fitness, permiti
 
 Modelo baseado no DER desenvolvido nas atividades anteriores.
 
-## ▶️ Como Executar os Scripts
+##  Como Executar os Scripts
 
 1. Criar o banco de dados no MySQL Workbench ou PgAdmin.
 2. Criar todas as tabelas conforme o DER fornecido.
