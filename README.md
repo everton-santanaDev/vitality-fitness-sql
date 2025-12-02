@@ -1,22 +1,22 @@
 # vitality-fitness-sql
 Sistema de Gestão de Academia – Scripts SQL
+
 # Sistema de Gestão da Academia Vitality Fitness  
 Repositório contendo os scripts SQL para criação, inserção e manipulação de dados referentes ao minimundo da Academia Vitality Fitness.
 
-## 📌 Estrutura do Repositório
 ## 📘 Sobre o Projeto
 Este banco de dados modela o funcionamento da Academia Vitality Fitness, permitindo o gerenciamento de:
 - Alunos  
-- Planos  
+- planos 
 - Instrutores  
-- Treinos e exercícios  
-- Aulas coletivas  
+- Treinos, exercícios  
+- aulas coletivas 
 - Equipamentos  
 - Manutenções  
 
 Modelo baseado no DER desenvolvido nas atividades anteriores.
 
-##  Como Executar os Scripts
+## ▶️ Como Executar os Scripts
 
 1. Criar o banco de dados no MySQL Workbench ou PgAdmin.
 2. Criar todas as tabelas conforme o DER fornecido.
@@ -26,10 +26,11 @@ Modelo baseado no DER desenvolvido nas atividades anteriores.
    - `03_update_delete.sql`
 4. Verificar os resultados das operações.
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 - SQL (MySQL ou PostgreSQL)
 - MySQL Workbench / PgAdmin
 - GitHub
 
 ## 👨‍💻 Autor
 Everton Ribeiro
+
